@@ -120,7 +120,7 @@ void printsymbols()
                 tempval = symvals[i];
                 symvals[i] = symvals[j];
                 symvals[j] = tempval;
-           }               
+           }
         }
     }
     for (i = 0; i < symcount; i++)

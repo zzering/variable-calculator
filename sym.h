@@ -1,7 +1,6 @@
 #ifndef SYMTBL_H
 #define SYMTBL_H
 
-
 struct sym {
     char * name;
     double value;
